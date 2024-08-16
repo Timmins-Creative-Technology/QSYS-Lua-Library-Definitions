@@ -5,10 +5,14 @@ Last updated: August 2024
 This repo contains a collection of library definition files for the Q-SYS Lua libraries.
 
 The ultimate goal is to improve the Q-SYS plugin development experience in VS Code and reduce the need to check documentation.
-In some areas, diagnostics, type checking, and annotations are improved from the native language server in QSD's code editor.
+In some areas, diagnostics, type checking, and annotations have been improved from the native language server in QSD's code editor.
 Documentation links have also been provided where helpful.
 
-Testing environment:
+This began as a way for me to take notes and snowballed into something that I have found super helpful.
+If you find any errors or have suggestions, please feel free to comment or contribute.
+I'll continue to add libraries (and improve existing ones) as time allows in the future.
+
+## Testing Environment
 
 - sumneko Lua Language Server 3.10.4
   - [sumneko Lua Language Server wiki](https://luals.github.io/wiki/annotations/)
