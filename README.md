@@ -15,9 +15,9 @@ Testing environment:
 
 ## To use in VSCode
 
-1. Install the Lua Language Server extension.
-2. Clone the repo to a local folder.
-3. Add the file path under Lua.workspace.library.
+1. Install the sumneko Lua Language Server extension.
+2. Clone this repo to a local folder.
+3. Add the folder path under Lua.workspace.library.
 4. Enjoy!
 
 ## Included Libraries
