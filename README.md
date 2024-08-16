@@ -2,7 +2,14 @@
 
 August 2024
 
-Library definition files for Q-SYS Lua libraries. Developed and tested on the sumneko Lua Language Server (v3.10.4) in VS Code.
+This repo contains a collection of library definition files for the Q-SYS Lua libraries.
+It enables intellisense for the included libraries and provides annotations and documentation links where helpful.
+
+Testing environment:
+
+- sumneko Lua Language Server 3.10.4
+- VS Code 1.92
+- Q-SYS Designer 9.10
 
 [sumneko Lua Language Server wiki](https://luals.github.io/wiki/annotations/)
 
